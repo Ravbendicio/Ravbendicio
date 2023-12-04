@@ -1,6 +1,9 @@
 # Hi there, I'm Ron Angelo V. Bendicio! 👋
 
-I am a passionate individual with a strong knack for coding and a keen interest in database management. I thrive on solving intricate problems and architecting elegant solutions. My journey in the tech realm commenced with my pursuit of a BS in Computer Science.
+
+I am an enthusiastic individual with a deep passion for coding and a strong interest in managing databases. 
+I excel in solving complex problems and enjoy crafting sophisticated solutions. 
+My venture into the tech world began with my pursuit of a Bachelor of Science in Computer Science.
 
 ## About Me
 
